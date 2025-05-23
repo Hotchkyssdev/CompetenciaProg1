@@ -2,9 +2,9 @@
 
 INTEGRANTES:
 
-Grossetti, Ignacio Arturo.
+**Grossetti, Ignacio Arturo.**
 
-Hotchkyss, Gersom Tomás.
+**Hotchkyss, Gersom Tomás.**
 
 Trabajo: Ejercicio 1 - Números primos en un arreglo
 
