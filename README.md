@@ -1,14 +1,16 @@
 # CompetenciaProg1 
 INTEGRANTES:
 
-Grossetti, Ignacio Arturo
-Hotchkyss, Gersom Tomás
+Grossetti, Ignacio Arturo.
+
+Hotchkyss, Gersom Tomás.
 
 Trabajo:
 
 Ejercicio 1 - Números primos en un arreglo
 
-Metodologia
+Metodologia:
+
 1.Analizamos el ejercicio dado.
 2.Planteamos un codigo como resolucion del trabajo
 3.Buscamos informacion necesaria para realizar el codigo(como hacer una variable, como usar el void, ETC)
