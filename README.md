@@ -1,4 +1,5 @@
-# CompetenciaProg1 
+#Ejercicios Competencia-Comisión 2
+
 INTEGRANTES:
 
 Grossetti, Ignacio Arturo.
@@ -11,15 +12,15 @@ Metodologia:
 
 1.Analizamos el ejercicio dado.
 
-2.Planteamos un codigo como resolucion del trabajo
+2.Planteamos un codigo como resolucion del trabajo.
 
-3.Buscamos informacion necesaria para realizar el codigo(como hacer una variable, como usar el void, ETC)
+3.Buscamos informacion necesaria para realizar el código.
 
-4.Dividimos la tarea para mayor eficiencia (Uno escribiendo el codigo planteado y el otro haciendo el repositorio y el REEDME)
+4.Dividimos la tarea para mayor eficiencia.
 
-5.Comprobamos la funcionalidad del codigo a travez de la prueba y error. (Ejecutando el trabajo y viendo qué errores aparecen)
+5.Comprobamos la funcionalidad del codigo a través de la prueba y error.
 
 6.Solucionar los error qué aparecen en la consola.
 
-7.Revisar el codigo en busca de posibles mejoras qué se puedan implementar 
+7.Revisar el codigo en busca de posibles mejoras qué se puedan implementar.
 
