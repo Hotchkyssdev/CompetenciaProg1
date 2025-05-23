@@ -1,10 +1,12 @@
 # CompetenciaProg1 
-INTEGRANTES
-*Ignacio Grossetti
-*Tomas Hotchkys
+INTEGRANTES:
 
-Trabajo
-*Ejercicio 1 - Números primos en un arreglo
+Grossetti, Ignacio Arturo
+Hotchkyss, Gersom Tomás
+
+Trabajo:
+
+Ejercicio 1 - Números primos en un arreglo
 
 Metodologia
 1.Analizamos el ejercicio dado.
